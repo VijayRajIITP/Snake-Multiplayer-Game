@@ -28,7 +28,7 @@ This is a simple Snake Multiplayer Game implemented in Python using the Pygame l
 4. Avoid collisions with the walls and the other snake.
 5. The game ends if a snake collides with the other snake or goes out of bounds.
 6. Press Enter to play again or Escape to exit.
-
+![ezgif com-speed](https://github.com/VijayRajIITP/Snake-Multiplayer-Game/assets/149241319/c4fbb5c4-6198-490f-a2c9-e39231041fee)
 ## Dependencies
 - Python 3.x
 - Pygame library
@@ -40,6 +40,7 @@ This is a simple Snake Multiplayer Game implemented in Python using the Pygame l
 ## Run the Game
 ```bash
 python main.py
+
 
 ## Results
 ![ezgif com-speed](https://github.com/VijayRajIITP/Snake-Multiplayer-Game/assets/149241319/c4fbb5c4-6198-490f-a2c9-e39231041fee)
