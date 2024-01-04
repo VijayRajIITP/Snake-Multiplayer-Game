@@ -38,10 +38,10 @@ This is a simple Snake Multiplayer Game implemented in Python using the Pygame l
 2. Install Pygame: `pip install pygame`
 
 ## Run the Game
-```bash
+
 python main.py
 
----bash
+
 ## Results
 
 
