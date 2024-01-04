@@ -39,5 +39,5 @@ This is a simple Snake Multiplayer Game implemented in Python using the Pygame l
 
 ## Run the Game
 ```bash
-main.py
+python main.py
 # Snake-Multiplayer-Game
