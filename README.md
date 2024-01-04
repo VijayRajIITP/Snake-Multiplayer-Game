@@ -46,5 +46,5 @@ python main.py
 
 
 
-Game GIF
+
 ![ezgif com-speed](https://github.com/VijayRajIITP/Snake-Multiplayer-Game/assets/149241319/c4fbb5c4-6198-490f-a2c9-e39231041fee)
