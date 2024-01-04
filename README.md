@@ -42,4 +42,5 @@ This is a simple Snake Multiplayer Game implemented in Python using the Pygame l
 python main.py
 
 ## Results
-https://github.com/VijayRajIITP/Snake-Multiplayer-Game/assets/149241319/50d33ba7-b618-402a-a4de-2ad3ecabe240
+![ezgif com-speed](https://github.com/VijayRajIITP/Snake-Multiplayer-Game/assets/149241319/c4fbb5c4-6198-490f-a2c9-e39231041fee)
+
