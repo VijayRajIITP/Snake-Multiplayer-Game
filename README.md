@@ -41,7 +41,7 @@ This is a simple Snake Multiplayer Game implemented in Python using the Pygame l
 ```bash
 python main.py
 
-
+---bash
 ## Results
 
 
